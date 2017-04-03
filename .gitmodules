@@ -1,0 +1,6 @@
+[submodule "alexa_songs"]
+	path = alexa_songs
+	url = https://github.com/rlandows/alexa_songs.git
+[submodule "apps/alexa_songs"]
+	path = apps/alexa_songs
+	url = https://github.com/rlandows/alexa_songs.git
